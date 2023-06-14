@@ -1,0 +1,15 @@
+Para inicio de projeto estarei pesquisando em sites possiveis atividades para eu criar e aprimorar minhas habilidades dentro do JS
+sendo assim vou começar com o basico e ir até o essencial para que eu posso chegar a uma vaga Dev Junior. 
+
+1 atividade: Projeto JavaScript Puro. 
+Criar um trocador de cores automatico usando o DOM. 
+Conceitos importantes tratados nesse tutorial:
+
+arrays
+document.getElementById()
+document.querySelector()
+addEventListener()
+document.body.style.backgroundColor
+Math.floor()
+Math.random()
+array.length
